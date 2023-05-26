@@ -1,0 +1,3 @@
+conversao-jpg-png.sh: line 4: cd: ../imagens-livros2: No such file or directory
+ls: cannot access '*.jpg': No such file or directory
+convert convert: Unable to open file (.jpg) [No such file or directory].
